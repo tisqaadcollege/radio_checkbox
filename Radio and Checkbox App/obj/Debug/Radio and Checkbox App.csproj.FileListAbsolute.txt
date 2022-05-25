@@ -1,0 +1,11 @@
+C:\Users\Abdirizak\source\repos\Class 630 PM\Radio and Checkbox App\Radio and Checkbox App\bin\Debug\Radio and Checkbox App.exe.config
+C:\Users\Abdirizak\source\repos\Class 630 PM\Radio and Checkbox App\Radio and Checkbox App\bin\Debug\Radio and Checkbox App.exe
+C:\Users\Abdirizak\source\repos\Class 630 PM\Radio and Checkbox App\Radio and Checkbox App\bin\Debug\Radio and Checkbox App.pdb
+C:\Users\Abdirizak\source\repos\Class 630 PM\Radio and Checkbox App\Radio and Checkbox App\obj\Debug\Radio and Checkbox App.csproj.AssemblyReference.cache
+C:\Users\Abdirizak\source\repos\Class 630 PM\Radio and Checkbox App\Radio and Checkbox App\obj\Debug\Radio and Checkbox App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdirizak\source\repos\Class 630 PM\Radio and Checkbox App\Radio and Checkbox App\obj\Debug\Radio_and_Checkbox_App.frmDemo.resources
+C:\Users\Abdirizak\source\repos\Class 630 PM\Radio and Checkbox App\Radio and Checkbox App\obj\Debug\Radio_and_Checkbox_App.Properties.Resources.resources
+C:\Users\Abdirizak\source\repos\Class 630 PM\Radio and Checkbox App\Radio and Checkbox App\obj\Debug\Radio and Checkbox App.csproj.GenerateResource.cache
+C:\Users\Abdirizak\source\repos\Class 630 PM\Radio and Checkbox App\Radio and Checkbox App\obj\Debug\Radio and Checkbox App.csproj.CoreCompileInputs.cache
+C:\Users\Abdirizak\source\repos\Class 630 PM\Radio and Checkbox App\Radio and Checkbox App\obj\Debug\Radio and Checkbox App.exe
+C:\Users\Abdirizak\source\repos\Class 630 PM\Radio and Checkbox App\Radio and Checkbox App\obj\Debug\Radio and Checkbox App.pdb
